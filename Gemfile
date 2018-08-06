@@ -50,6 +50,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'shoulda-callback-matchers'
   gem 'database_cleaner'
+  gem 'rails-controller-testing'
 end
 
 group :development do
